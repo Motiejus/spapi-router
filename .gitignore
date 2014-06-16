@@ -1,5 +1,10 @@
 log/
 deps/
 ebin/
+doc/*.html
+doc/doc
+doc/edoc-info
+doc/erlang.png
+doc/stylesheet.css
 *.dump
 .eunit/
